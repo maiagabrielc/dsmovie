@@ -7,7 +7,7 @@ export default function Form() {
     title: "The Witcher",
     count: 2,
     score: 4.5
-};
+  };
 
   return (
     <div className="dsmovie-form-container">
